@@ -21,7 +21,7 @@
     },
     "AUTO_BIO": {
       "description": "Enter yes for your bot to auto update bio",
-      "value": "no",
+      "value": "yes",
       "required": false
     },
     "AUTO_REPLY_STATUS": {
@@ -76,17 +76,17 @@
     },
     "OWNER_NUMBER": {
       "description": "Enter your number eg, 2547xxxxxxx",
-      "value": "",
+      "value": "254715429414",
       "required": true 
     },
    "STATUS_REACT_EMOJIS": {
       "description": "Enter your auto like status emojis",
-      "value": "💚,🚀,🌎,✅",
+      "value": "💚,🚀,🌎,✅,🫂,🤗,😎,🔥,🥰,😍,💦,😊,🥵,🫣",
       "required": false 
     },
     "AUTO_REACT": {
       "description": "Enter your auto react messages",
-      "value": "no",
+      "value": "yes",
       "required": false 
     },
    "AUTO_REACT_STATUS": {
@@ -96,18 +96,18 @@
     },
     "OWNER_NAME": {
       "description": "Owner name",
-      "value": "Ibrahim Adams",
+      "value": "carlson",
       "required": false
     },
     "SESSION_ID": {
       "description": "Your session ID",
-      "value": "",
+      "value": "BWM-XMD;;;H4sIAAAAAAAAA5VU25KiSBD9lY161RgFRMSIjljAGyqgoghuzEMJBZRys6pQcMJv2af9hP2v/YQN7O6Zftid7eWpqMrIPHnOyfwGshxTtEA1GH4DBcFXyFBzZHWBwBCoZRgiAtoggAyCIUALuaVDLXUHiVbxo93SdDR2b8FDtGuNlvFG4jdx7cRcxdEX8GiDojwm2P9JwlPilmuqS/VSPB2FATlJpgzLqjPelAd9mg+Iv2pBFyeG47+AR5MRYoKzaFzEKEUEJgtUryAmn4NvT5A5m1bS6i7plj5gy9ZcVbn9ze9lF6k+za/iPUjG6p3vGp+Dr/gQ7S7SflRXeKxVjmwlEUni7kxeCmS818/ytFNl62Ohea/wKY4yFOgByhhm9ad5LycackemYinSdkppVV/t/vrGeX1SouVOmdfE8JfEdLNU+Rzwu5micBS1VLI91/zRMk1xk9kW8/p8MXb02cm0Ql7hYHjzPwJfkXevnP8P73tjwEiHqJIkEIU4m+t4sPDWZ7N70faH7VbsbXqKe5P4wOl9Dv5tOqnHx25e+IYjbEPdizeGq+fOsoi3BdNXuWi1YjeYn8bRD/iQleRnKNXVWVQDVTC65+leI/OipNKMPxncwtEtZ7YRWox6muqi4+G+mHX9cby2y3mhrc/7MynSARPdLCAruTfuGrJ5nGyVSFVuL8+OzqjWAzDkHm1AUIQpI5DhPGvu+kIbwOBqI58g9mQXiDMzDeJgi5EcC+eFPDrEpeajloe0zS49zkih1+sTnZo+fQFtUJDcR5SiYIYpy0ltIEphhCgY/va1DTJUsVfdmmoC1wYhJpTtsrJIchi8i/r+CH0/LzNm15mvNQdEwPDDNWIMZxFtaCwzSPwYX5EWQ0bBMIQJRd8bRAQFYMhIib4PrZYHDe+zqWXZ6sADbZA+9cABGAJe7Emc2OPlHtcbCtKv9MutSQuL4kuGGGiD5BnGybIsyH1R4Lg+x3WbyOahDTLYJAMaJMkvf/3+x58N62+gmxoBYhAntIlYbU3K+evItOa3m+cptqIsFKUh8r3Jd7O8qmGGsLVLZ6SzrzVhPygLAVd4ZXtJ0OK4cdzCaCHJSVTsa++fkoAhkOz+YNFyLhInIiezSnTVpoTu7yuEUHWDThSO1MvAl0ZlQLANj5WRRUv7PDggtyUgved5htXfpfH8sprnh7lgHaSN1jirDQJ0xT76WOweOaJxP68LMR4Rc5duJcgbLl4bcKfLE75MdSiMZFPa8qYlTSrVM+equTstkGEkVVxUXMf1kDz1UE9Ur/BiKxWcKNGrjZ9jlLytL/x0WCNf8xti9NwGbzr8p5yvwBvXdR/tDzne9su/zejW5a/JPO53OBox7rq8BD3qnbrp3A1ZsNHDPMNl5+AtHJqCx+NrGxQJZGFOUjAEMAtI/jQLycvGxnoW5j8ppim6rimvnSeQMuXHaGxxiiiDaQGGnCRy/KDb5bjXqBXJixmkcWPWRS+e9Rqf10pR2Ayy90kDSvNNOivw+BvYv2ZWhAcAAA==",
       "required": true
     },    
     "STARTING_BOT_MESSAGE": {
       "description": "Enable starting message (yes/no)",
-      "value": "yes",
-      "required": true
+      "value": "no",
+      "required": false
     },
     "PRESENCE": {
       "description": "Presence mode: 1=online, 2=typing, 3=recording",
